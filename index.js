@@ -298,11 +298,11 @@ someFunc("name",1,2);*/
    
 // })
 
-function DonutShop(){
-    function queue(){
-        console.log("Wait........");
-        return new Promise((resolve)=>{
+//function DonutShop(){
+  //  function queue(){
+    //    console.log("Wait........");
+      //  return new Promise((resolve)=>{
             
-        })
-    }
-}
+        //})
+    //}
+//}
