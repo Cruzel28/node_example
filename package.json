@@ -1,0 +1,14 @@
+{
+  "name": "node-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cruzel28",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.27.0"
+  }
+}
